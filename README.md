@@ -3,7 +3,7 @@
 Code accompanying an accepted manuscript:
 
 > Mousavi SZ, Kouhi P, Esmaeili V, Rokhsattalab Z, Esmaeilzadeh A, Almadani N, Mohammad Soltani B, Totonchi M.  
-> Identifying CATSPERB variants in unexplained male infertility through familial exome sequencing.  
+> Identifying CATSPERB variant in unexplained male infertility through familial exome sequencing.  
 > *BioImpacts*. 2026. (accepted)
 
 ## What this repository contains
